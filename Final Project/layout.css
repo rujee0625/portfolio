@@ -1,0 +1,109 @@
+body
+{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.text-justify
+{
+          text-align: justify;
+}
+
+.button-click 
+{
+    margin-top: auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:auto;
+    height: 70%;
+    width: 50%;    
+    padding: 10%;  
+}
+
+
+.bg-bar
+{
+    background-color: #D9AF72;
+}
+
+.bg-brown
+{
+    background-color: rgba(255, 255, 255, 0.4);
+    width: auto;
+    height: auto;
+}
+
+.fullscreen-home
+{
+    background-image: url(images/home.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 115vh;
+}
+
+.fullscreen-profile
+{
+    background-image: url(images/Profile.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 240vh;
+}
+
+.fullscreen-artwork
+{
+    background-image: url(images/Bg_artwork.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 350vh;
+}
+
+.fullscreen-graphic
+{
+    background-image: url(images/bg_graphic.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 600vh;
+}
+
+.fullscreen-3D
+{
+    background-image: url(images/bg_3D.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 280vh;
+}
+
+.fullscreen-artwork
+{
+    background-image: url(images/bg_photo.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 400vh;
+}
+
+.fullscreen-contact
+{
+    background-image: url(images/contact.png);
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    height: 115vh;
+}
+
+#profile
+{
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+#profile-col1
+{   background-image: url(images/pic_profile.jpg);
+    background-position: auto;
+    background-size: cover;
+    height: 400px;
+}
+#profile-col2{}
